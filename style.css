@@ -1,3 +1,11 @@
+h1{
+   color: azure;
+   text-align: center;
+}
+    
+
+
+
 body {
  background: rgb(184, 230, 184) ; 
  color:black;  
@@ -6,4 +14,6 @@ body {
     width: 100px;;
     height: 100px;
 }
+
+ 
 
